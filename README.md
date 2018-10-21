@@ -1,2 +1,2 @@
 # Quark-Hash-POS-Script
-Free to use quark pos hashing script
+Free to use quark POS hashing script
